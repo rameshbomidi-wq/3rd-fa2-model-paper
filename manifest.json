@@ -1,0 +1,33 @@
+{
+ "name": "3వ తరగతి మోడల్ పేపర్ 2 – రాయ్ ఎడ్యుకేషన్",
+ "short_name": "Class 3 MP-2",
+ "description": "Class 3 Self Assessment Model Paper 2 – Telugu, Maths, English, EVS with practice examples",
+ "id": "./",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#E9EEF7",
+ "theme_color": "#1E2A78",
+ "lang": "te",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
